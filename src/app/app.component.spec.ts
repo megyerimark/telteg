@@ -1,3 +1,14 @@
+ /*
+
+* Author: Megyeri Márk Máté
+* Copyright: 2022, Megyeri Márk Máté
+* Group: Szoft II/N
+* Date: 2022.11.28
+* Github: https://github.com/megyerimark/
+* Licenc: GNU GPL
+*/
+ 
+
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';

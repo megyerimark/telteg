@@ -1,3 +1,14 @@
+ /*
+
+* Author: Megyeri Márk Máté
+* Copyright: 2022, Megyeri Márk Máté
+* Group: Szoft II/N
+* Date: 2022.11.28
+* Github: https://github.com/megyerimark/
+* Licenc: GNU GPL
+*/
+ 
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { CalcComponent } from './calc.component';
